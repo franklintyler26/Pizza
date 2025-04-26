@@ -22,7 +22,7 @@ export class LoginComponent {
         alert('Login Successful');
       } 
       else{
-        alert());
+        alert('Invalid Credentials');
       } 
     })
   }
