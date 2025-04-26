@@ -1,0 +1,143 @@
+{
+  "registration": [
+    {
+      "id": "068a",
+      "fullName": "",
+      "email": "",
+      "password": "",
+      "gender": "",
+      "country": ""
+    },
+    {
+      "id": "e2ac",
+      "fullName": "Mark",
+      "email": "mark123@gmail.com",
+      "password": "mark789",
+      "gender": "Male",
+      "country": "America"
+    },
+    {
+      "id": "4458",
+      "fullName": "Franklin",
+      "email": "frank456@gmail.com",
+      "password": "frank456",
+      "gender": "Male",
+      "country": "India"
+    }
+  ],
+
+  "products": [
+    {
+      "pid":"p001",
+    "pname":"Aussie", 
+    "price":"2000", 
+    "Description":"We have one of the best diner that can be a best decor for your dinning room", 
+    "pimage":"/assets/diner.png" 
+  },
+    {
+      "pid":"p002", 
+    "pname":"Capricciosa", 
+    "price":"8000", 
+    "Description":"This Mobile comes with 16gb of ram and 256gb of storage", 
+    "pimage":"/assets/mobile.jpg" 
+  },
+    {
+      "pid":"p003", 
+      "pname":"CheeseNCorn", 
+      "price":"11000", 
+      "Description":"Samsung Monitor 4k, LED also comes with built-in CPU", 
+      "pimage":"/assets/monitor.jpg" 
+    },
+    {
+      "pid":"p004", 
+      "pname":"Chicken toppings", 
+      "price":"25000", 
+      "Description":"Sony Bravia 4k Resolution - We bring the universal experience to your home", 
+      "pimage":"/assets/tv.jpg" 
+    },
+    {
+      "pid":"p005", 
+      "pname":"Chicken Pizza", 
+      "price":"1000", 
+      "Description":"G-shock 7D - Watch time anywhere and anytime also includes in build GPS", 
+      "pimage":"/assets/watch.jpg" 
+    },
+    {
+      "pid":"p006", 
+      "pname":"Hawaiian", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg" 
+    },
+    {
+      "pid":"p007", 
+      "pname":"Jalepeno", 
+      "price":"900", 
+      "Description":"Red Gear 990P - Comes with RGB and firstclass experience especially for gamers", 
+      "pimage":"/assets/mouse.jpg" 
+    },
+    {
+      "pid":"p008", 
+      "pname":"Kale & Sausage", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg" 
+    },
+    {
+      "pid":"p009", 
+      "pname":"MacNCheese", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg" 
+    },
+    {
+      "pid":"p010", 
+      "pname":"Margherita", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg" 
+    },
+    {
+      "pid":"p011", 
+      "pname":"Mexican Green Wave", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg"
+     },
+    {
+      "pid":"p012", 
+      "pname":"Paneer", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg" 
+    },
+    {
+      "pid":"p013", 
+      "pname":"Paneer Makhni", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg"
+     },
+    {
+      "pid":"p014", 
+      "pname":"Pepperoni", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg" 
+    },
+    {
+      "pid":"p015", 
+      "pname":"Spring Pizza", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg" 
+    },
+    {
+      "pid":"p016", 
+      "pname":"Veggie Delux", 
+      "price":"15000", 
+      "Description":"From Dirty clothes to the best shining clothes", 
+      "pimage":"/assets/washingmachine.jpg" 
+    }
+  ]
+}

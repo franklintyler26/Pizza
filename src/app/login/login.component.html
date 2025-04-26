@@ -1,0 +1,35 @@
+<style>
+    .v{
+        border:3px solid green
+    }
+    .i{
+        border:3px solid red
+    }
+</style>
+<div class="mt-5" style="margin-left: 650px;">
+    <fieldset style="background-color: white; width: 620px; height: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px; opacity: 0.9;">
+        <form #loginFrom="ngForm" (ngSubmit)="onLogin()">
+            <div class="mt-4">
+                <h3 style="text-align: center; color: green;"> Login To your Account</h3> <br> <br>
+
+                
+            <label style="margin-left: 40px;">
+               <b>Email </b>
+            </label> <br>
+            <input type="email" required [(ngModel)]="loginData.email" name="email" class="form-control" style="width: 500px; margin-left: 40px;"/> <br>
+           
+
+
+            <label style="margin-left: 40px;">
+                <b>Password</b>
+            </label> <br>
+            <input type="password" required [(ngModel)]="loginData.password" name="password" class="form-control" style="width: 500px; margin-left: 40px;"/> <br>
+            <button type="submit" class="btn btn-outline-success" style="margin-left: 130px;">Login</button>
+            <button class="btn btn-outline-success" [routerLink]="['/register']" style="margin-left: 150px;">New User</button>
+            </div>
+        </form> <br>
+        <div class="bg bg-warning" style="text-align: center; width: 300px; margin-left: 170px;">
+        </div>
+    </fieldset>
+</div>
